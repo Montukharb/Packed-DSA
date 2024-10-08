@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f801b4-a7cf-4f88-9528-fed46ed5ec89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DsaAdminPacked/Array_Delete.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DsaAdminPacked/Array_Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DsaAdminPacked/Array_Sample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array_Delete.executor": "Run",
     "Application.Array_Sample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "DSA",
