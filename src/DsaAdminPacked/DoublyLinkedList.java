@@ -163,8 +163,6 @@ class Doubly{
         }catch (Exception e)
         {
             System.out.println("\n"+e.getMessage());
-        }finally {
-            System.out.println("without problem exit");
         }
     }
 
