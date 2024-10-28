@@ -73,10 +73,14 @@ public class SingleLinkList {
                 System.out.println("Enter data");
                 input = sc.nextInt();
                 Node NewNode = new Node(input);
-                if (head != null) {
-                    NewNode.next = head;
+                if (head == null) {
+                    head = NewNode;
                 }
-                head = NewNode;
+                else
+                {
+                    NewNode.next = head;
+                    head = NewNode;
+                }
                 System.out.println("Do you enter data press 1 or not 2 key");
                 i = sc.nextInt();
             }while (i!=2);
