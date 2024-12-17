@@ -5,5 +5,6 @@ public class Tree {
     {
         System.out.println("Create binary updated tree data structure");
         System.out.println("new tree");
+        System.out.println("welcome java");
     }
 }
